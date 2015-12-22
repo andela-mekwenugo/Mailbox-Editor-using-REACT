@@ -1,0 +1,124 @@
+body{
+  background-color: #e9f0f5;
+}
+img{
+  border-radius: 20px;
+  height: 40px;
+  width: 40px;
+}
+label{
+  color: #89949B;
+}
+.container{
+  margin-top: 10px;
+}
+.glyphicon{
+  font-size: 3.5em;
+}
+.center{
+  display: inline-block;
+  float: none;
+  vertical-align: middle;
+}
+
+/* Editor */
+.trumbowyg{
+  border: none;
+  margin: 0;
+  width: 100%;
+}
+.trumbowyg-button-pane{
+  background-color: white;
+}
+
+/* Form Structure */
+.panel{
+  border: none;
+}
+.panel .panel-heading{
+  background-color: white;
+  padding: 20px;
+}
+.panel .panel-body{
+  padding: 0;
+}
+.panel .panel-footer{
+  background-color: white;
+  padding: 20px;
+}
+
+.inbox-title h2{
+  display: inline-block;
+  padding-left: 12.5px;
+  text-align: left;
+  vertical-align: middle;
+}
+.inbox-avatar-name{
+  display: inline-block;
+  font-size: 1.1em;
+  padding-left: 12.5px;
+  text-align: left;
+  vertical-align: middle;
+}
+.inbox-avatar-name a{
+  color: #ccc;
+}
+
+.form-horizontal{
+  padding-left: 60px;
+}
+.form-control{
+  border: 2px solid #ccc;
+  border-radius: 0;
+}
+
+/* Buttons */
+.btn{
+  border: 1px solid #ccc;
+  border-radius: 20px;
+  padding: 4px 16px;
+}
+.btn-primary{
+  background-color: #fff;
+  color: #ccc;
+}
+.btn-primary.outline{
+  border-color: #79B0EC;
+  color: #79B0EC;
+}
+.btn-primary:hover,
+.btn-primary:focus{
+  background-color: #79B0EC;
+  border-color: #79B0EC;
+  color: #fff;
+}
+
+.btn-danger{
+  background-color: #fff;
+  color: #ccc;
+}
+.btn-danger.outline{
+  border-color: #d9534f;
+  color: #d9534f;
+}
+.btn-danger:hover,
+.btn-danger:focus{
+  background-color: #d9534f;
+  border-color: #d9534f;
+  color: #fff;
+}
+
+.btn-success{
+  background-color: #fff;
+  color: #ccc;
+}
+.btn-success.outline{
+  border-color: #55C9A6;
+  color: #55C9A6;
+}
+.btn-success:hover,
+.btn-success:focus{
+  background-color: #55C9A6;
+  border-color: #55C9A6;
+  color: #fff;
+}
